@@ -1,6 +1,8 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-> **"> **"O aprendizado nunca termina. Cada projeto é uma oportunidade para evoluir. Não existe almoço grátis."**  Em formação na área de Tecnologia**
+> ⚡ **"Grandes resultados começam quando você decide não desistir."** 🚀💻
+> **— Fernando Souza | 👨‍💻 Em formação na área de Tecnologia**
+
 
 Sou **Fernando Souza**, estudante e **Desenvolvedor Front-End Júnior em formação**, construindo minha trajetória na área de Tecnologia da Informação.
 
