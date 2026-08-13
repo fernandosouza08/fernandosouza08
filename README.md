@@ -1,20 +1,23 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-> **"Aprender, praticar e evoluir todos os dias."**
+> **"Não preciso saber tudo para começar. Preciso começar para aprender."**
+
+Sou **Fernando Souza**, estudante e **Desenvolvedor Front-End Júnior em formação**, construindo minha trajetória na área de Tecnologia da Informação.
+
+Comecei minha jornada pelo desenvolvimento Web com **HTML e CSS** e atualmente estou avançando em **JavaScript**, Git, GitHub e outras ferramentas utilizadas no desenvolvimento moderno.
+
+Meu foco é aprender na prática, criar projetos reais e evoluir continuamente como desenvolvedor.
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou estudante e **Desenvolvedor Front-End Júnior em formação**, apaixonado por tecnologia e desenvolvimento web.
-
-Minha jornada na programação começou com **HTML e CSS** e atualmente estou avançando nos estudos de **JavaScript**, além de aprender e praticar ferramentas importantes do desenvolvimento, como **Git, GitHub, VS Code e Vite**.
-
-Gosto de transformar ideias em projetos reais, testar novas tecnologias e buscar soluções para problemas do dia a dia.
-
-Também utilizo **ferramentas de Inteligência Artificial como apoio ao desenvolvimento**, sempre buscando entender, testar e aprimorar o código que estou construindo.
-
-Meu objetivo é conquistar minha primeira oportunidade profissional na área de **Tecnologia da Informação**, especialmente em **Desenvolvimento Front-End, Suporte de TI ou áreas relacionadas**.
+💻 Desenvolvedor Front-End Júnior em formação
+📚 Estudando JavaScript e Desenvolvimento Web
+🛠️ Criando projetos próprios para praticar programação
+🤖 Utilizando Inteligência Artificial como ferramenta de apoio ao desenvolvimento
+🌐 Experiência prática com GitHub Pages e Netlify
+🎯 Buscando oportunidades na área de Tecnologia da Informação
 
 ---
 
@@ -22,110 +25,134 @@ Meu objetivo é conquistar minha primeira oportunidade profissional na área de 
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Ferramentas
 
-* Git
-* GitHub
-* VS Code
-* Vite
-* GitHub Pages
-* Netlify
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### Em aprendizado
+### Deploy
 
-* JavaScript
-* JavaScript para Web
-* Desenvolvimento Front-End
-* APIs
-* Boas práticas de programação
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge\&logo=github\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
 ---
 
 ## 🎯 O Que Eu Faço
 
-✅ Desenvolvimento de **páginas web responsivas**
+✅ Desenvolvimento de **interfaces Web responsivas**
 
-✅ Criação de **interfaces utilizando HTML e CSS**
+✅ Criação de páginas utilizando **HTML5 e CSS3**
 
-✅ Desenvolvimento e aprimoramento de **projetos Front-End**
+✅ Desenvolvimento de projetos **Front-End**
 
-✅ Versionamento de projetos com **Git e GitHub**
+✅ Versionamento de código utilizando **Git e GitHub**
 
-✅ Publicação de projetos utilizando plataformas como **GitHub Pages e Netlify**
+✅ Publicação de projetos na Web
 
-✅ Utilização de **IA como ferramenta de apoio ao desenvolvimento**
+✅ Integração e experimentação com **Inteligência Artificial**
 
 ✅ Aprendizado contínuo de **JavaScript e tecnologias Web**
 
 ---
 
-## 🛠️ Projetos
-
-### 🚀 Nexus Tech
-
-Projeto voltado para tecnologia e desenvolvimento de soluções digitais.
+## 🚀 Projetos
 
 ### 🤖 Sara IA
 
-Projeto de uma assistente virtual desenvolvido como experiência prática com tecnologias web e Inteligência Artificial.
+Projeto de uma assistente virtual desenvolvido como experiência prática com **desenvolvimento Web e Inteligência Artificial**.
+
+**Tecnologias:** HTML • CSS • JavaScript • IA
+
+---
+
+### 🌐 Nexus Tech
+
+Projeto voltado para tecnologia e desenvolvimento de soluções digitais.
+
+**Tecnologias:** HTML • CSS • JavaScript • Git • GitHub
+
+---
 
 ### 💻 Portfólio
 
-Meu portfólio pessoal, onde apresento minha evolução, projetos e conhecimentos na área de tecnologia.
+Meu portfólio pessoal para apresentar minha trajetória, conhecimentos e projetos desenvolvidos durante minha evolução na área de tecnologia.
+
+**Tecnologias:** HTML • CSS • JavaScript
 
 ---
 
 ## 📚 Atualmente Estudando
 
-🎯 **JavaScript**
+```text
+HTML5
+  ↓
+CSS3
+  ↓
+Git & GitHub
+  ↓
+JavaScript
+  ↓
+JavaScript Web
+  ↓
+APIs & Integrações
+  ↓
+Desenvolvimento Front-End
+```
 
-🎯 **JavaScript para Web**
-
-🎯 **Git e GitHub**
-
-🎯 **Desenvolvimento Front-End**
-
-🎯 **APIs e integração com aplicações Web**
-
-🎯 **Boas práticas de desenvolvimento**
+Estou construindo minha base passo a passo, sempre colocando o conhecimento em prática através de projetos.
 
 ---
 
 ## 📊 GitHub
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, experiências práticas e aplicações que venho construindo para evoluir como desenvolvedor.
+Este perfil reúne projetos, estudos e experiências práticas desenvolvidos durante minha jornada na programação.
 
-Cada projeto representa uma etapa do meu aprendizado.
+Cada repositório representa uma etapa do meu aprendizado e da minha evolução como desenvolvedor.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade para iniciar ou continuar minha carreira profissional na área de **Tecnologia da Informação**, especialmente em:
+
+* 💻 Desenvolvimento Front-End Júnior
+* 🌐 Desenvolvimento Web
+* 🛠️ Suporte de TI
+* 🎧 Service Desk
+
+Quero fazer parte de uma equipe onde possa **aprender, contribuir e crescer profissionalmente**.
 
 ---
 
 ## 🔗 Conecte-se Comigo
 
-Estou aberto a oportunidades, projetos, colaborações e conexões na área de Tecnologia da Informação.
+[![GitHub](https://img.shields.io/badge/GitHub-fernandosouza08-181717?style=for-the-badge\&logo=github)](https://github.com/fernandosouza08)
 
-* 💼 LinkedIn: `https://www.linkedin.com/in/fernando-de-souza-884813a0/`
-* 🌐 Portfólio: `adicione-seu-link`
-* 📧 Email: `adicione-seu-email`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 
 ---
 
-## 💡 Minha Filosofia
+## 💡 Filosofia
 
-> **Não preciso saber tudo para começar. Preciso começar para aprender.**
+> **"Aprender, praticar e evoluir todos os dias."**
 
-Acredito que programação é um processo contínuo de aprendizado.
+Acredito que programação não é apenas escrever código.
 
-Cada erro, projeto e desafio representa uma oportunidade para aprender algo novo e evoluir.
+É **resolver problemas, experimentar, errar, pesquisar, aprender e transformar conhecimento em algo real**.
 
-Meu objetivo é transformar conhecimento em **projetos reais**, construir experiência e crescer profissionalmente na área de tecnologia.
+Minha jornada está apenas começando, e cada projeto é uma nova oportunidade de evolução.
 
 ---
 
-⭐ Se algum dos meus projetos for útil ou interessante para você, fique à vontade para deixar uma estrela!
+## ⭐ Obrigado pela visita!
 
-**Obrigado pela visita! 🚀**
+**Fernando Souza**
+
+💻 Front-End Developer in Progress
+🚀 Learning • Building • Evolving
