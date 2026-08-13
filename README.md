@@ -108,7 +108,7 @@ Cada projeto representa uma etapa do meu aprendizado.
 
 Estou aberto a oportunidades, projetos, colaborações e conexões na área de Tecnologia da Informação.
 
-* 💼 LinkedIn: `adicione-seu-link`
+* 💼 LinkedIn: `https://www.linkedin.com/in/fernando-de-souza-884813a0/`
 * 🌐 Portfólio: `adicione-seu-link`
 * 📧 Email: `adicione-seu-email`
 
