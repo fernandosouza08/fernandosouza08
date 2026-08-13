@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
- Grandes resultados começam quando você decide não desistir.
+> **"Grandes resultados começam quando você decide não desistir."**
  ---
 
 Sou **Fernando Souza**, estudante e **Desenvolvedor Front-End Júnior em formação**, construindo minha trajetória na área de Tecnologia da Informação.
